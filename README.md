@@ -3,6 +3,8 @@ Décimo app IOS do curso Desenvolvimento IOS 12 na Udemy, ministrado pelo profes
 
 No desenvolvimento deste app foi possível praticar a manipulação de dados armazenados no dispositivo do usuário através do recurso UserDefaults, e tambem a deletar um item em um UITableViewController.
 
+<h1> Funções </h1>
+
 Criando uma nova tarefa:
 
 <p align="center">
