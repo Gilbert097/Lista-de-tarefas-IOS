@@ -1,7 +1,7 @@
 # Lista-de-tarefas-IOS
-Décimo app IOS do curso Desenvolvimento IOS 12 na Udemy, ministrado pelo professor Jamilton Damasceno. O objetivo do app é manipular uma lista de tarefas.
+10º app IOS do curso Desenvolvimento IOS 12 na Udemy, ministrado pelo professor Jamilton Damasceno. O objetivo do app é manipular uma lista de tarefas.
 
-No desenvolvimento deste app foi possível praticar a manipulação de dados armazenados no dispositivo do usuário através do recurso UserDefaults, e tambem a deletar um item em um UITableViewController.
+No desenvolvimento deste app foi possível praticar a manipulação de dados armazenados no dispositivo do usuário através do recurso UserDefaults, e também a deletar um item em um UITableViewController.
 
 <h1> Funções </h1>
 
